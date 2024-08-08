@@ -1,0 +1,5 @@
+-r palm.txt
+gunicorn
+gevent
+python-memcached
+mysqlclient

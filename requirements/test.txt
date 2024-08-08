@@ -1,0 +1,4 @@
+coverage
+django-webtest
+requests-mock
+tox
